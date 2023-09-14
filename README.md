@@ -1,4 +1,6 @@
 # Flashcard-Application
+This project leverages the Tkinter library in Python to create a vibrant and interactive flashcard app to assist individuals in learning new English words along with their Polish translations. </br>
+The words used in the data are the most common in spoken language.
 
 ## Features
 
